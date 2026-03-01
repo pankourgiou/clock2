@@ -1,0 +1,1 @@
+download the clock.jpg , copy-paste the code and save it as .html then double-click the file and voila a full working clock but with different symbols,and as Umberto Eco said cultivate your memory and you will live a thousand lives.. ![clock](https://github.com/user-attachments/assets/6f2c4596-fbcb-4524-bbf5-3cd844fe24c9)
